@@ -1,0 +1,6 @@
+[submodule "music-mania-backend"]
+	path = music-mania-backend
+	url = https://github.com/roberthevesi/music-mania-backend.git
+[submodule "music-mania-frontend"]
+	path = music-mania-frontend
+	url = https://github.com/roberthevesi/music-mania-frontend.git
